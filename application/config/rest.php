@@ -156,7 +156,7 @@ $config['auth_library_function'] = '';
   | array('admin' => '1234')
   |
  */
-$config['rest_valid_logins'] = array('dpi' => 'Dpi@2025');
+$config['rest_valid_logins'] = array('admin' => '1234');
 
 /*
   |--------------------------------------------------------------------------
